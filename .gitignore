@@ -26,3 +26,7 @@ runner/henv*/
 # `npm install` next to run.mjs, so the lock has never been in the tree — and a `git add -A` after
 # installing playwright committed it twice in this branch before this rule existed.
 scripts/support-matrix/package-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
